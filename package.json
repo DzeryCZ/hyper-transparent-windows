@@ -1,0 +1,11 @@
+{
+  "name": "hyper-transparent-windows",
+  "version": "1.0.0",
+  "description": "Transparent background for Hyper Command Line in Windows",
+  "main": "index.js",
+  "dependencies": {
+    "parse-color": "^1.0.0"
+  },
+  "author": "Jaroslav Živný",
+  "license": "MIT"
+}
